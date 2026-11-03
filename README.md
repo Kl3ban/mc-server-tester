@@ -1,6 +1,7 @@
 # mc server tester
 
 simple command line tool to check if minecraft server is working and get all informations without opening the game.
+i made this tool just for fun because i was bored and wanted quick way to check servers.
 it show ping in ms, players count, exact game version, motd description and if server is online or cracked.
 works fast and has no colorful terminal mess, just clean text.
 
