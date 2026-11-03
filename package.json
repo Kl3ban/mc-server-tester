@@ -1,0 +1,19 @@
+{
+  "name": "mc-server-tester",
+  "version": "1.0.0",
+  "description": "Fast and clean minecraft server tester for terminal",
+  "main": "src/cli.js",
+  "bin": {
+    "test": "bin/test.js",
+    "mctest": "bin/test.js"
+  },
+  "keywords": [
+    "minecraft",
+    "server",
+    "ping",
+    "status",
+    "cli"
+  ],
+  "author": "Kl3ban",
+  "license": "UNLICENSED"
+}
